@@ -2,4 +2,9 @@ name: llm-wiki-health
 okf_version: '0.2'
 bundles_dir: bundles
 keep_raw: true
-bundles: {}
+bundles:
+  mitch-rice:
+    title: Mitch Rice
+    description: Videos from Dr. Mitch Rice's YouTube channel (@TheBloodPressureDoc)
+      — blood pressure, hypertension, and cardiovascular health guidance mirrored
+      as transcripts.
