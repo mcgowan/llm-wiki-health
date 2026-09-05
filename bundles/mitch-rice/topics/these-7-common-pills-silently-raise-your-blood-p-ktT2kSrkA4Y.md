@@ -59,4 +59,5 @@ No studies are cited by name; mechanisms are explained at a lay level. The list 
 
 # Related topics
 
-- [800mg Before Lunch Is The Easiest Way To Kill Visceral Fat](/topics/800mg-before-lunch-is-the-easiest-way-to-kill-vi-lI6n3rz6RSM.md) — same-series — the following upload; shared theme that supplements have real pharmacology (here as a risk, there as a therapy) and the same 90-day program funnel
+- [800mg Before Lunch Is The Easiest Way To Kill Visceral Fat](/topics/800mg-before-lunch-is-the-easiest-way-to-kill-vi-lI6n3rz6RSM.md) — same-series
+- [The #1 Stress Mistake That Keeps Blood Pressure High (And How to Fix It)](/topics/the-1-stress-mistake-that-keeps-blood-pressure-h-B_X5kG2NdoU.md) — shared-focus: hypertension

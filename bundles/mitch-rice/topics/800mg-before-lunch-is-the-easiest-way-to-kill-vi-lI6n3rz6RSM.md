@@ -64,4 +64,7 @@ The entire case rests on one trial described second-hand; the video gives no sam
 
 # Related topics
 
-- [These 7 Common Pills Silently Raise Your Blood Pressure (Don't Get Misdiagnosed)](/topics/these-7-common-pills-silently-raise-your-blood-p-ktT2kSrkA4Y.md) — same-series — the preceding upload; both warn that "natural" supplements are not automatically benign and route viewers to the same 90-day program
+- [These 7 Common Pills Silently Raise Your Blood Pressure (Don't Get Misdiagnosed)](/topics/these-7-common-pills-silently-raise-your-blood-p-ktT2kSrkA4Y.md) — same-series
+- [480mg Reverses Insulin Resistance by 71% (Doctors Won’t Tell You)](/topics/480mg-reverses-insulin-resistance-by-71-doctors-6BRBxntkP6I.md) — shared-focus: visceral fat
+- [5 Life-Saving Tests Your Doctor Might Skip!](/topics/5-life-saving-tests-your-doctor-might-skip-zmU56dUWq98.md) — shared-focus: visceral fat
+- [Why Healthy People Still Have High Blood Pressure (Doctor Explains)](/topics/why-healthy-people-still-have-high-blood-pressur-LwOy5IvqjXQ.md) — shared-focus: visceral fat
